@@ -4,11 +4,6 @@
 * Submitting your work: Check the instructions for submission and late policy [here](https://geometric3d.github.io/submission.html).
 * There are `3` questions in this assignment. Make sure you follow the instructions and submit the answers as required.
 
-
-## Updates:
-* 2023/10/08: Update the wording of Q2a and Q2b to make it clear that using your own annotations is not required.
-
-
 ## Q1:  Camera matrix `P` from 2D-3D correspondences (30 points)
 In this question, your goal is to compute `P` from 2D-3D point correspondences.
 
