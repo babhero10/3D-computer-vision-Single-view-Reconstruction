@@ -1,0 +1,10 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Xournal++ Autosaves (matches .2025...autosave.xopp)
+.*.autosave.xopp
